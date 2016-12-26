@@ -1,0 +1,13 @@
+{
+  "name":"Epilap",
+  "description": "Epilap built with generator-react-firebase",
+  "repository": "https://github.com/ankoor7/Epilap",
+  "keywords": [
+    "generator-react-firebase",
+    "react",
+    "redux",
+    "firebase",
+    "redux-firebase",
+    "react-redux-firebase",
+  ]
+}
